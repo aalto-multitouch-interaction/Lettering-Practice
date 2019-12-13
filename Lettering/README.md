@@ -1,4 +1,4 @@
-# About emptyExample
+# About Lettering Practice
 
 ![Screenshot of emptyExample](emptyExample.png)
 
